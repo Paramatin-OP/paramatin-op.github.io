@@ -1,0 +1,21 @@
+User-agent: googlebot
+User-agent: applebot
+User-agent: duckduckbot
+User-agent: Googlebot-Image
+User-agent: Googlebot-Mobile
+User-agent: Googlebot-News
+User-agent: Googlebot-Video
+User-agent: AdsBot-Google
+User-agent: *
+Disallow: /assets/bootstrap/css/bootstrap.min.css/
+Disallow: /assets/bootstrap/js/bootstrap.min.js/
+Disallow: /assets/css/vanilla-zoom.min.css/
+Disallow: /assets/fonts/*
+Disallow: /assets/img/scenery/*
+Disallow: /assets/img/tech/*
+Disallow: /assets/js/*
+Disallow: /LICENSE/
+Allow: /index/
+
+
+Sitemap: https://paramatin.me/robots.txt/
