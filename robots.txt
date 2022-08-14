@@ -18,4 +18,4 @@ Disallow: /LICENSE/
 Allow: /index/
 
 
-Sitemap: https://paramatin.me/robots.txt/
+Sitemap: https://paramatin-op.github.io/robots.txt/
